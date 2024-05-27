@@ -7,7 +7,7 @@ A project to design a test-bench for thermal and pressure conditions in which a 
 
 ## General Objective. 
 
-Establish the design of a thermovacuum chamber that allows structural pressure and temperature tests to be carried out on 1U, 1.5U, 2U, 2.5U and 3U CubeSat-type satellites, in order to guarantee the resistance of the equipment during space launch.
+Establish the design of a thermovacuum chamber that allows structural pressure and temperature tests on 1U, 1.5U, 2U, 2.5U and 3U CubeSat-type satellites, in order to guarantee the resistance of the equipment during space launch.
 
 ## Specific Objectives. 
 
